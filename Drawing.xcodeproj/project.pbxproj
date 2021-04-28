@@ -11,6 +11,8 @@
 		90AC683B2632C82B007450B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90AC683A2632C82B007450B9 /* ContentView.swift */; };
 		90AC683D2632C82D007450B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90AC683C2632C82D007450B9 /* Assets.xcassets */; };
 		90AC68402632C82D007450B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90AC683F2632C82D007450B9 /* Preview Assets.xcassets */; };
+		90AC68492638350C007450B9 /* ColorCyclingCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90AC68482638350C007450B9 /* ColorCyclingCircleView.swift */; };
+		90AC684C26388FB2007450B9 /* ColorCyclingRectangleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90AC684B26388FB2007450B9 /* ColorCyclingRectangleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		90AC683C2632C82D007450B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90AC683F2632C82D007450B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		90AC68412632C82D007450B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90AC68482638350C007450B9 /* ColorCyclingCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCyclingCircleView.swift; sourceTree = "<group>"; };
+		90AC684B26388FB2007450B9 /* ColorCyclingRectangleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCyclingRectangleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				90AC683C2632C82D007450B9 /* Assets.xcassets */,
 				90AC68412632C82D007450B9 /* Info.plist */,
 				90AC683E2632C82D007450B9 /* Preview Content */,
+				90AC68482638350C007450B9 /* ColorCyclingCircleView.swift */,
+				90AC684B26388FB2007450B9 /* ColorCyclingRectangleView.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				90AC683B2632C82B007450B9 /* ContentView.swift in Sources */,
+				90AC68492638350C007450B9 /* ColorCyclingCircleView.swift in Sources */,
+				90AC684C26388FB2007450B9 /* ColorCyclingRectangleView.swift in Sources */,
 				90AC68392632C82B007450B9 /* DrawingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
